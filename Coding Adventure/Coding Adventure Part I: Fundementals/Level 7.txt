@@ -1,0 +1,9 @@
+# Answers of Level 7 of Coding Adventure
+# Written by NoobGrammer69. Join his epic Discord server: http://bit.do/CoolPeople
+
+turn 45
+step 14
+
+# Explanation: Turns 45 degrees so that the monkey faces the banana, then walks towards it.
+# Notes: If you put a number in front of turn, it will turn the exact number of degrees mentioned in the parameter. They could be measured with the ruler.
+# Play this level (requires a licensed account): https://app.codemonkey.com/challenges/7
