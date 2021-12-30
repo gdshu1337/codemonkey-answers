@@ -1,0 +1,11 @@
+# Answers of Level 12 of Coding Adventure
+# Written by NoobGrammer69. Join his epic Discord server: http://bit.do/CoolPeople
+
+turnTo bridge
+step 15
+turnTo banana
+step 10
+
+# Explanation: Turns and moves to the bridge, then the banana
+# Notes: None
+# Play this level (requires a licensed account): https://app.codemonkey.com/challenges/12
