@@ -1,0 +1,12 @@
+# Answers of Level 10 of Coding Adventure
+# Written by NoobGrammer69. Join his epic Discord server: http://bit.do/CoolPeople
+
+turnTo bridge
+step distanceTo bridge
+for b in bananas
+    turnTo b
+    step distanceTo b
+
+# Explanation: Goes to the bridge, then moves to each banana.
+# Notes: "bananas" is a list of objects containing all bananas within the level. Using a "for" loop allows the program to iterate through each banana in the list.
+# Play this level (requires a licensed account): https://app.codemonkey.com/challenges/10
