@@ -1,0 +1,9 @@
+# Answers of Level 9 of Coding Adventure
+# Written by NoobGrammer69. Join his epic Discord server: http://bit.do/CoolPeople
+
+step -10
+step 20
+
+# Explanation: How about you use some common sense
+# Notes: Entering a negative number in step would make the monkey walk backwards.
+# Play this level (requires a licensed account): https://app.codemonkey.com/challenges/9
