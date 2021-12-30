@@ -1,0 +1,11 @@
+# Answers of Level 6 of Coding Adventure
+# Written by NoobGrammer69. Join his epic Discord server: http://bit.do/CoolPeople
+
+turnTo bridge
+step distanceTo bridge
+turnTo banana
+step distanceTo banana
+
+# Explanation: Change the direction so that the monkey will be facing the bridge, then walk the exact number of steps to the bridge. After all of that, do the same thing for the banana. Exact measurements utilize distanceTo to get the exact number of steps between the monkey and and object, and turnTo allows the monkey to face it (so that it could walk towards it)
+# Notes: turnTo, just like turn, allows the monkey to turn towards an object (bridge, bush, tiger, etc.). distanceTo reports the distance between the monkey an object.
+# Play this level (requires a licensed account): https://app.codemonkey.com/challenges/6
