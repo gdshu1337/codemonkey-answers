@@ -1,0 +1,8 @@
+# Answers of Level 2 of Coding Adventure
+# Written by NoobGrammer69. Join his epic Discord server: http://bit.do/CoolPeople
+
+step 20
+
+# Explanation: Same logic as the previous level. Remember that the monkey always goes forward! We will soon learn how to change its direction...
+# Notes: None
+# Play this level (requires a licensed account): https://app.codemonkey.com/challenges/2
