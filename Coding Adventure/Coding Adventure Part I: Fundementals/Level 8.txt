@@ -1,0 +1,10 @@
+# Answers of Level 8 of Coding Adventure
+# Written by NoobGrammer69. Join his epic Discord server: http://bit.do/CoolPeople
+
+3.times ->
+    turn left
+    step 15
+
+# Explanation: Turns left and walks 15 steps. Since this is done repetitively 3 times, we could simply use a loop.
+# Notes: When we use a times -> loop, everything contained within the loop (shown by four spaces of indentification) will be repeated by the specified number of times.
+# Play this level (requires a licensed account): https://app.codemonkey.com/challenges/8
