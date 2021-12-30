@@ -1,0 +1,5 @@
+# About Coding Adventure
+Coding Adventure is a series of game-based programming exercises that run on CoffeeScript. It is split into two parts: Coding Adventure and Skill Mode. Skill Mode is
+generally harder and requires more logic and problem-solving skills. This folder contains three-star answers to all levels of Coding Adventure.
+
+Good luck, and try to only look at answers if you're stuck!
