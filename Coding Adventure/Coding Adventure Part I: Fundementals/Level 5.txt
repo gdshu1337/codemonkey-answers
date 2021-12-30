@@ -1,0 +1,11 @@
+# Answers of Level 5 of Coding Adventure
+# Written by NoobGrammer69. Join his epic Discord server: http://bit.do/CoolPeople
+
+turn left
+step 15
+turn right
+step 15
+
+# Explanation: The direction needs to be changed twice.
+# Notes: Stack multiple lines of code to achieve multiple things!
+# Play this level (requires a licensed account): https://app.codemonkey.com/challenges/5
